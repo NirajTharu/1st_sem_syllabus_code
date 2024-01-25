@@ -10,6 +10,6 @@ int main()
     return 0;
 }
 void displayString(char str[]){
-    printf("String Output: ");
+    printf("String Output:\n");
     puts(str);
 }
