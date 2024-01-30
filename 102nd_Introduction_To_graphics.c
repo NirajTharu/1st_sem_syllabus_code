@@ -1,6 +1,8 @@
 //Write a program to draw a circle
 #include<stdio.h>
-#include<graphics.h>
+#include<grphics.h>
+#include <GLFW/glfw3.h>
+
 int main()
 {
 int gd=DETECT,gm;
